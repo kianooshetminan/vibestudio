@@ -1,0 +1,26 @@
+.project-single-title{
+    text-align: center;
+    padding-top: 50x;
+    font-family: 'changabold';
+    font-size: 36px;
+    color: var(--secondery-color);
+}
+.project-single-images{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+.project-main-image img{
+    width: 732px;
+    border-radius: 10px;
+}
+.project-first-secondary-images img, .project-second-secondary-images img{
+    border-radius: 10px;
+}
+.project-single-description{
+    text-align: center;
+    font-family: 'changareg';
+    font-weight: 300;
+    font-size: 18px;
+    color: var(--secondery-color);
+}
